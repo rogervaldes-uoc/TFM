@@ -16,3 +16,9 @@ L’objectiu de la recerca és analitzar la possible influència del format dels
 analisi_dades/       Codi Python emprat per al tractament estadístic i generació de gràfics
 materials_didactics/ Materials utilitzats durant les intervencions (LaTeX i Canva)
 tfm/                 Versió final del treball
+
+## Ús dels materials
+
+El codi d’anàlisi es distribueix sota llicència MIT.
+
+Els materials didàctics i el document del TFM es comparteixen únicament amb finalitats acadèmiques i educatives. Qualsevol reutilització requereix citar l’autoria original.
