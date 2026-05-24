@@ -1,0 +1,18 @@
+# Influència del format dels materials didàctics en la motivació i l’aprenentatge matemàtic a l’educació secundària
+
+Repositori associat al Treball Final de Màster (TFM) del **Màster Universitari de Formació del Professorat d’Educació Secundària Obligatòria, Batxillerat, Formació Professional i Ensenyament d’Idiomes** (UOC, curs 2025–2026).
+
+## Descripció del projecte
+
+Aquest repositori conté els materials complementaris utilitzats en el TFM:
+
+> **Influència del format dels materials didàctics en la motivació i l’aprenentatge matemàtic a l’educació secundària: rigor formal, disseny visual i ús de la intel·ligència artificial en la generació de materials educatius**
+
+L’objectiu de la recerca és analitzar la possible influència del format dels materials didàctics sobre diferents dimensions de l’aprenentatge matemàtic, incloent el rendiment acadèmic, la motivació, la percepció de claredat, la càrrega cognitiva percebuda i el rigor formal del llenguatge matemàtic.
+
+## Contingut del repositori
+
+```text
+analisi_dades/       Codi Python emprat per al tractament estadístic i generació de gràfics
+materials_didactics/ Materials utilitzats durant les intervencions (LaTeX i Canva)
+tfm/                 Versió final del treball
