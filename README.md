@@ -10,6 +10,12 @@ Aquest repositori conté els materials complementaris utilitzats en el TFM:
 
 L’objectiu de la recerca és analitzar la possible influència del format dels materials didàctics sobre diferents dimensions de l’aprenentatge matemàtic, incloent el rendiment acadèmic, la motivació, la percepció de claredat, la càrrega cognitiva percebuda i el rigor formal del llenguatge matemàtic.
 
+## Ús dels materials
+
+El codi d’anàlisi es distribueix sota llicència MIT.
+
+Els materials didàctics i el document del TFM es comparteixen únicament amb finalitats acadèmiques i educatives. Qualsevol reutilització requereix citar l’autoria original.
+
 ## Contingut del repositori
 
 ```text
@@ -17,8 +23,3 @@ analisi_dades/       Codi Python emprat per al tractament estadístic i generaci
 materials_didactics/ Materials utilitzats durant les intervencions (LaTeX i Canva)
 tfm/                 Versió final del treball
 
-## Ús dels materials
-
-El codi d’anàlisi es distribueix sota llicència MIT.
-
-Els materials didàctics i el document del TFM es comparteixen únicament amb finalitats acadèmiques i educatives. Qualsevol reutilització requereix citar l’autoria original.
