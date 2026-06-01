@@ -19,11 +19,10 @@ Els materials didàctics i el document del TFM es comparteixen únicament amb fi
 ## Contingut del repositori
 
 ```text
+text analisi_dades/ Codi Python emprat per al tractament estadístic i generació de gràfics materials_didactics/ Materials utilitzats durant les intervencions (LaTeX i Canva) tfm/ Versió final del treball
 materials_didactics/
-├── latex/                     Materials didàctics elaborats amb LaTeX
-├── canva/                     Materials didàctics elaborats amb Canva
 └── fotografies_intervencions/ Fotografies de les intervencions realitzades
     ├── ESO1-I1/
     ├── ESO1-I2/
     ├── ESO2-I1/
-    └── I BAT1-I1/
+    └── BAT1-I1/
